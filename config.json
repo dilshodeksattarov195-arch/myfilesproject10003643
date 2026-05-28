@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsselete",
+        "uuid": 30058393,
+        "checksum": "utc5g7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
